@@ -1,4 +1,4 @@
-================================================== GRAVADOR DE TELA PARA WINDOWS COM WINDOWS FORM ==========================================================
+====================== GRAVADOR DE TELA PARA WINDOWS COM WINDOWS FORM ====================
 
 AUTOR: NELSON BORDIN JUNIOR
 EMAIL: nelsonbordin@hotmail.com
