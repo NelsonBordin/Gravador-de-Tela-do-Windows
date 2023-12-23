@@ -1,1 +1,0 @@
->Ajustar os php de get de requests das sondas para adquirirem o formato dos bancos do projeto UPGRADE NEXXO
